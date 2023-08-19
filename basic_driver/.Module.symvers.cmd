@@ -1,0 +1,1 @@
+cmd_/home/vivsg/old_data/workproject/linux-device-driver-1/my_drivers/basic_driver/Module.symvers := sed 's/ko$$/o/' /home/vivsg/old_data/workproject/linux-device-driver-1/my_drivers/basic_driver/modules.order | scripts/mod/modpost -m -a  -o /home/vivsg/old_data/workproject/linux-device-driver-1/my_drivers/basic_driver/Module.symvers -e -i Module.symvers   -T -

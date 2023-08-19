@@ -1,0 +1,1 @@
+cmd_/home/vivsg/old_data/workproject/linux-device-driver-1/my_drivers/basic_driver/modules.order := {   echo /home/vivsg/old_data/workproject/linux-device-driver-1/my_drivers/basic_driver/basic_driver.ko; :; } | awk '!x[$$0]++' - > /home/vivsg/old_data/workproject/linux-device-driver-1/my_drivers/basic_driver/modules.order

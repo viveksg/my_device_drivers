@@ -1,0 +1,1 @@
+cmd_/home/vivsg/old_data/workproject/linux-device-driver-1/my_drivers/basic_driver/basic_driver.mod := printf '%s\n'   basic_driver.o | awk '!x[$$0]++ { print("/home/vivsg/old_data/workproject/linux-device-driver-1/my_drivers/basic_driver/"$$0) }' > /home/vivsg/old_data/workproject/linux-device-driver-1/my_drivers/basic_driver/basic_driver.mod
