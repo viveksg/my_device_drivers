@@ -1,0 +1,1 @@
+cmd_/home/vivsg/old_data/workproject/linux-device-driver-1/my_drivers/multi_device/multi_device.mod := printf '%s\n'   multi_device.o | awk '!x[$$0]++ { print("/home/vivsg/old_data/workproject/linux-device-driver-1/my_drivers/multi_device/"$$0) }' > /home/vivsg/old_data/workproject/linux-device-driver-1/my_drivers/multi_device/multi_device.mod

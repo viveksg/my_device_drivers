@@ -1,0 +1,1 @@
+cmd_/home/vivsg/old_data/workproject/linux-device-driver-1/my_drivers/multi_device/Module.symvers :=  scripts/mod/modpost -m -a     -o /home/vivsg/old_data/workproject/linux-device-driver-1/my_drivers/multi_device/Module.symvers -T /home/vivsg/old_data/workproject/linux-device-driver-1/my_drivers/multi_device/modules.order -i Module.symvers -e 

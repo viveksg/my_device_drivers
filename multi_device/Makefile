@@ -1,4 +1,4 @@
-obj-m:=multi_device.obj
+obj-m:=multi_device.o
 ARM_CROSS_COMPILER=arm-none-linux-gnueabihf-
 TARGET=arm
 HOST_KERNEL_DIR=/lib/modules/$(shell uname -r)/build/
